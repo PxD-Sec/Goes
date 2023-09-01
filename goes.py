@@ -37,7 +37,7 @@ def Done():
 
 
 #this is the url 
-url = "https://nos.nl/"
+url = "url HERE"
 
 #this is the function that makes so if you load the function it opens 
 def open():
